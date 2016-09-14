@@ -1,0 +1,54 @@
+body{
+	width: 966px;
+	margin: 20px;
+}
+section{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.form{
+	float: left;
+}
+fieldset{
+	width: 400px;
+
+}
+.preview{
+	float: left;
+	padding-left: 10px;
+	width: 250px;
+}
+label {
+	display: block;
+	font-family: 'Roboto', sans-serif;
+}
+input{
+	border-radius: 3px;
+	display: block;
+	width: 300px;
+	height: 20px;
+}
+h1{
+font-family: 'Roboto', sans-serif;
+font-size: 28px;	
+}
+.form h1{
+	font-weight: bold;
+}
+h2{
+	font-size: 20px;
+	padding-left: 45px;
+	font-family: 'Roboto', sans-serif;
+}
+ul{
+	list-style: none;
+}
+li{
+	padding: 5px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+}
+.submit{
+	width: 50px;
+	margin-left: 44px;
+}
